@@ -2,20 +2,20 @@ With increasing demand for renewable energy and an ever-increasing global temper
 
 
 
-##Example of a Solar Highway in practice:
+## Example of a Solar Highway in practice:
 <img src="https://github.com/danjulsj/Solar-Road/blob/main/images/hw.jpg"/>
 
 
 
-##Close-up of the Solar Highway:
+## Close-up of the Solar Highway:
 <img src="https://github.com/danjulsj/Solar-Road/blob/main/images/hw_detail.jpg"/>
 
 
 
-##Example of a Solar Road in practice:
+## Example of a Solar Road in practice:
 <img src="https://github.com/danjulsj/Solar-Road/blob/main/images/sub.jpg"/>
 
 
 
-##Close-up of a Solar Road:
+## Close-up of a Solar Road:
 <img src="https://github.com/danjulsj/Solar-Road/blob/main/images/sub_detail.jpg"/>
