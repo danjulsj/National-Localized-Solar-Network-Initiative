@@ -21,3 +21,9 @@ With increasing demand for renewable energy and an ever-increasing global temper
 
 ## Close-up of a Solar Road:
 <img src="https://github.com/danjulsj/Solar-Road/blob/main/images/sub_detail.jpg"/>
+
+
+
+
+
+Some videos showing how this idea will be implemented on roads: ( https://youtu.be/w8pipgbrV0Y ) and highways: ( https://youtu.be/k_oGkPN7Rgg )
