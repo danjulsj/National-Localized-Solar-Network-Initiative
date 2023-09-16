@@ -22,7 +22,16 @@ With increasing demand for renewable energy and an ever-increasing global temper
 ## Close-up of a Solar Road:
 <img src="https://github.com/danjulsj/Solar-Road/blob/main/images/sub_detail.jpg"/>
 
+# Can also be used to power cars on the roadway
+<img src="https://github.com/danjulsj/Solazrized-American-Transportation-Network/blob/main/images/poweredRoadCar.jpg"/>
 
+or trucks
+<img src="https://github.com/danjulsj/Solazrized-American-Transportation-Network/blob/main/images/poweredRoadTruck.jpg"/>
+
+or both
+<img src="https://github.com/danjulsj/Solazrized-American-Transportation-Network/blob/main/images/poweredRoadTruckAndCar.jpg"/>
+
+drastically reducing vehicle weight and thus wasted energy lugging batteries and/or engines around
 
 
 
