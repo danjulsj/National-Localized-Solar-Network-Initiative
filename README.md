@@ -4,6 +4,7 @@ With increasing demand for renewable energy and an ever-increasing global temper
 
  ## Graph showing current energy production and consumption vs. estimated production from this model
  <img src="https://github.com/danjulsj/National-Localized-Solar-Network-Initiative/blob/main/images/Full%20graph.png"/>
+ details are in the "Mapss" folder
 
 
 ## Example of a Solar Highway in practice:
