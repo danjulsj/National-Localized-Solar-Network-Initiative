@@ -6,6 +6,10 @@ With increasing demand for renewable energy and an ever-increasing global temper
 ## Charging In Motion: mobile charging stations that charge your car while you drive
 <img src="https://github.com/danjulsj/National-Localized-Solar-Network-Initiative/blob/main/images/chargingInMotionGE.png"/>
 
+## Diagram showing how Charging In Motion system would work, and comparison with existing EV charging systems
+<img src="https://github.com/danjulsj/National-Localized-Solar-Network-Initiative/blob/main/images/charginInMotion.png"/>
+
+
 
  ## Graph showing current energy production and consumption vs. estimated production from this model
  <img src="https://github.com/danjulsj/National-Localized-Solar-Network-Initiative/blob/main/images/Full%20graph.png"/>
