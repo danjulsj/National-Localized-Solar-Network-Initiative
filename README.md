@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=3fVSQ0NxsR0
 
  ## Graph showing current energy production and consumption vs. estimated production from this model
  <img src="https://github.com/danjulsj/National-Localized-Solar-Network-Initiative/blob/main/images/Full%20graph.png"/>
- details are in the "Mapss" folder
+ details are in the "Maps" folder
 
 
 ## Example of a Solar Highway in practice:
